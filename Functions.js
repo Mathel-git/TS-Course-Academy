@@ -25,7 +25,7 @@ console.log(sumNumbers(100, 200));*/
 }
 console.log(calculateinterest(1000, 5, 300));*/
 
-function checkName(name) {
+/*function checkName(name) {
     if (name === "Mathew Kol") {
         return "Mathew kol!";
     } else {
@@ -43,5 +43,5 @@ function checkResponsefromcheckName() {
         }
 }
 
-    console.log(checkResponsefromcheckName());
+    console.log(checkResponsefromcheckName());*/
  
